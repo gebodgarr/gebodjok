@@ -1,0 +1,9 @@
+{
+    "JokEnable": false,
+    "JokLang": ["Russian"],
+    "JokTimes": ["Yekaterinburg"],
+    "JokLinks": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
