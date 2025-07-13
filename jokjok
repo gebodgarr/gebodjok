@@ -1,9 +1,9 @@
 {
-    "JokEnable": false,
-    "JokLang": ["Russian"],
-    "JokTimes": ["Yekaterinburg"],
+    "JokEnable": true,
+    "JokLang": ["Spanish"],
+    "JokTimes": ["Buenos_Aires", "Argentina"],
     "JokLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wlvkt.life/casino/list?open=register&p=mapv"]}
     ]
  }
